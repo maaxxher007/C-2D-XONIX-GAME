@@ -1,7 +1,3 @@
-# C-2D-XONIX-GAME
-Fast-paced arcade area-control game SFML-based single/multiplayer Xonix clone Classic capture-the-zone action game
-
-
 # Xonix Game (SFML)
 
 A C++ arcade-style territory capture game inspired by Xonix, built with SFML.
